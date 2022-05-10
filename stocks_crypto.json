@@ -1,0 +1,42 @@
+{"crypto":[
+    {"name": "Bitcoin",
+     "shortcut": "BTC"
+    },
+    {"name": "Ethereum",
+        "shortcut": "ETH"
+    },
+    {"name": "Cardano",
+        "shortcut": "ADA"
+    },
+    {"name": "Solana",
+        "shortcut": "SOL"
+    },
+    {"name": "XRP",
+        "shortcut": "XRP"
+    },
+    {"name": "Avalanche",
+        "shortcut": "AVAX"
+    }
+],
+"stocks":[
+    {"name": "Coinbase Global, Inc.",
+        "shortcut": "COIN"
+    },
+    {"name": "Twilio Inc.",
+        "shortcut": "TWLO"
+    },
+    {"name": "The Walt Disney Company",
+    "shortcut": "DIS"
+    },
+    {"name": "DigitalOcean Holdings, Inc",
+        "shortcut": "DOCN"
+    },
+    {"name": "Unity Software Inc.",
+    "shortcut": "U"
+    },
+    {"name": "Netflix Inc",
+    "shortcut": "NFLX"
+    }
+] 
+    
+}
